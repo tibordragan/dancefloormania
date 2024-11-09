@@ -12,7 +12,7 @@ body{
     color: white;
     height: 100dvh;
     font-family: "Raleway", sans-serif;
-    background: linear-gradient(to left, rgba(0, 0, 0, 0.324)40%,rgb(0, 0, 0)55%), url("background.jpg");
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.488)35%,rgb(0, 0, 0)70%), url("background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
